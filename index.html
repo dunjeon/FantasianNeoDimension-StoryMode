@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FANTASIAN Neo Dimension — Story Mode</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      margin: 0 auto;
+      max-width: 42rem;
+      padding: 2.5rem 1.25rem 4rem;
+      font: 1.05rem/1.55 system-ui, sans-serif;
+    }
+    h1 { font-size: 1.8rem; line-height: 1.2; margin-bottom: 0.4rem; }
+    h2 { font-size: 1.2rem; margin-top: 2rem; }
+    a { color: inherit; }
+    .download {
+      display: inline-block;
+      margin: 1rem 0;
+      padding: 0.7rem 1rem;
+      background: #1f6feb;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 0.4rem;
+      font-weight: 650;
+    }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { text-align: left; vertical-align: top; padding: 0.45rem 0.6rem; border-bottom: 1px solid #8884; }
+    code, pre { font-family: ui-monospace, monospace; }
+    pre { overflow: auto; padding: 0.8rem 1rem; background: #8882; border-radius: 0.4rem; }
+    .note { color: #888; }
+  </style>
+</head>
+<body>
+  <h1>FANTASIAN Neo Dimension — Story Mode</h1>
+  <p>A free, open-source drag-and-drop difficulty change. Fan project. Not made by or affiliated with Square Enix or Mistwalker. <a href="https://github.com/dunjeon/FantasianNeoDimension-StoryMode">MIT license</a>.</p>
+  <p><a class="download" href="https://github.com/dunjeon/FantasianNeoDimension-StoryMode/releases/latest">Download the latest release</a></p>
+
+  <h2>Install</h2>
+  <ol>
+    <li>Close the game.</li>
+    <li>Open the zip and drag the <code>FantasianND_Data</code> folder onto the game folder, into the same place as the <code>FantasianND_Data</code> folder that is already there.</li>
+    <li>Replace the files when asked, then start the game.</li>
+  </ol>
+  <p>The game folder is the one that contains <code>FantasianND.exe</code>. On Steam it is:</p>
+  <pre>steamapps/common/FANTASIAN Neo Dimension/</pre>
+  <p>Nothing else needs to be installed. The same drop works on Windows and on Linux through Proton.</p>
+
+  <h2>What the menu does</h2>
+  <p>The menu names stay Normal, Hard, and Super Hard.</p>
+  <table>
+    <thead><tr><th>Menu</th><th>Enemies</th></tr></thead>
+    <tbody>
+      <tr><td>Normal</td><td>Story. HP 60%, attack 50%, defense 60%, speed −4, experience +50%.</td></tr>
+      <tr><td>Hard</td><td>Easy. HP 80%, attack 75%, defense 80%, speed −2, experience unchanged.</td></tr>
+      <tr><td>Super Hard</td><td>The original Normal enemy stats.</td></tr>
+    </tbody>
+  </table>
+  <p>A New Game+ custom enemy slider still scales attack, defense, and speed on top of these tables.</p>
+
+  <h2>Remove it</h2>
+  <p>In Steam, verify the integrity of the game files. That restores the original tables.</p>
+  <p class="note">Source and releases: <a href="https://github.com/dunjeon/FantasianNeoDimension-StoryMode">github.com/dunjeon/FantasianNeoDimension-StoryMode</a></p>
+</body>
+</html>
