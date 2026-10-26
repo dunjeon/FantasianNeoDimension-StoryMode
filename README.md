@@ -36,9 +36,9 @@ A New Game+ custom enemy slider still scales attack, defense, and speed on top o
 
 In Steam, verify the integrity of the game files. That restores the original Normal, Hard, and Super Hard tables.
 
-## Files in the release
+## Changed files
 
-The zip already has the game's folder layout:
+These three enemy tables are in this repository, in the same folders the game uses. The release zip contains the same files. `3543967287_enemyparameterinfotable` is the Normal menu, `3543967287_enemyparameterinfotablehard` is the Hard menu, and `3543967287_enemyparameterinfotablesuperhard` is the Super Hard menu.
 
 ```
 INSTALL.txt

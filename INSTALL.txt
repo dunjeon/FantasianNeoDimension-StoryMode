@@ -1,0 +1,17 @@
+FANTASIAN Neo Dimension — Story Mode
+
+Close the game. Drag the FantasianND_Data folder onto the game folder, into the same place as the FantasianND_Data folder that is already there. Replace the files when asked.
+
+The game folder is the one that contains FantasianND.exe. On Steam it is:
+
+steamapps/common/FANTASIAN Neo Dimension/
+
+This works on Windows and on Linux through Proton. Nothing else needs to be installed.
+
+The menu names stay Normal, Hard, and Super Hard.
+
+Normal     Story. Enemy HP 60%, attack 50%, defense 60%, speed -4, experience +50%.
+Hard       Easy. Enemy HP 80%, attack 75%, defense 80%, speed -2, experience unchanged.
+Super Hard The original Normal enemy stats.
+
+Restart the game. To remove it, verify the game files in Steam.
