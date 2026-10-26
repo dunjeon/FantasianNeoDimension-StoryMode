@@ -4,6 +4,8 @@ A free, open-source drag-and-drop difficulty change for **FANTASIAN Neo Dimensio
 
 This is a fan project. It is not made by or affiliated with Square Enix or Mistwalker.
 
+Made with Grok by xAI.
+
 The project is [MIT licensed](LICENSE). Use it, share it, and change it.
 
 **[Download the latest release](https://github.com/dunjeon/FantasianNeoDimension-StoryMode/releases/latest)**

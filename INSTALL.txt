@@ -15,3 +15,5 @@ Hard       Easy. Enemy HP 80%, attack 75%, defense 80%, speed -2, experience unc
 Super Hard The original Normal enemy stats.
 
 Restart the game. To remove it, verify the game files in Steam.
+
+Made with Grok by xAI.
